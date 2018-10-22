@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+	<title>My Mobile Lib</title>
+	<link>http://sketchlibrary.sketchapp.com/libraries/SketchLibraryAppcast.xml</link>
+	<description>undefined</description>
+	<language>en</language>
+		<item>
+			<title>My Mobile Lib</title>
+			<sparkle:minimumSystemVersion>49</sparkle:minimumSystemVersion>
+			<sparkle:maximumSystemVersion>53</sparkle:maximumSystemVersion>
+			<pubDate>Mon, 22 Oct 2018 17:24:22 +0000</pubDate>
+			<enclosure url="https://www.martin-lihs.com/test/sketch/TestLib.sketch" sparkle:version="18922172422" length="10825" type="application/octet-stream" />
+		</item>
+	</channel>
+</rss>
